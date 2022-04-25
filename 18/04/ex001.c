@@ -12,5 +12,5 @@ void main (){
 
     printf("\nAnteessor: %c - Codigo ASCCI : %d", c-1,c-1);
     printf("\nASucessor: %c - Codigo ASCCI : %d", c+1);
-
+    //return 0;
 }
