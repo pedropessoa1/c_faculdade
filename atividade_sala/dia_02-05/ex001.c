@@ -7,6 +7,6 @@
      int i;
      for (i = 0; i < 10; i++){
          printf("\nDigite o valor: ");
-         scanf("%d",vetor[i]);
+         scanf("%d",&vetor[i]);
      }
  }
